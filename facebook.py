@@ -37,7 +37,7 @@ def the_show():
                                     !                                   |                                       !
                                     !-------------------Author : ANtqAmE (ALi Qasseim)--------------------------!
                                     !                                                                           !
-                                    !-------------Name_script:Exploitation all the systems, V 2.0---------------!
+                                    !-------------Name_script:hachfacebook by ANtqAmE     , V 2.0---------------!
                                     !                                                                           !
                                     !------------website : http://www.antqame.blogspot.com----------------------!
                                     !                                                                           !
